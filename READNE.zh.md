@@ -153,5 +153,30 @@ Docker 端口冲突：检查 docker-compose.yml 中的端口映射配置。
 | Staging Area      | 暂存区    | Git中临时存储已修改文件准备提交的区域。                            |
 | Natural Language Processing (NLP)| 自然语言处理 | 让计算机理解、解释和生成人类语言的技术领域。       |
 
+分类
+1.开发方向：Backend、Frontend、UI/UX
+2.技术架构：API、Database、Cloud Computing3.
+方法论：Agile、DevOps4.AI相关：Machine Learning5.
+系统特性：Scalability
+
+| Natural Language Processing (NLP)| 自然语言处理 | 让计算机理解、解释和生成人类语言的技术领域。        |
+| Continuous Integration (CI)      | 持续集成     | 开发人员频繁将代码变更合并到共享主干的开发实践。    |
+| Continuous Deployment (CD)       | 持续部署     | 自动化将代码变更部署到生产环境的过程。             |
+| Microservices                    | 微服务       | 将应用程序构建为小型、独立服务的架构风格。          |
+| Containerization                 | 容器化       | 将应用程序及其依赖项打包在隔离环境中的技术。        |
+| Kubernetes                       | Kubernetes   | 用于自动化容器化应用程序部署、扩展和管理的开源平台。|
+| RESTful API                      | RESTful API  | 遵循REST架构风格的网络API设计方式。               |
+| GraphQL                          | GraphQL      | 用于API的查询语言和运行时环境。                   |
+| Big Data                         | 大数据        | 传统数据处理软件难以处理的庞大或复杂数据集。       |
+| Blockchain                       | 区块链        | 分布式数据库技术，以安全、透明的方式记录交易。     |
+| Internet of Things (IoT)         | 物联网        | 通过互联网连接的物理设备网络。                    |
+| Cybersecurity                    | 网络安全      | 保护系统、网络和程序免受数字攻击的实践。           |
+| Virtual Reality (VR)             | 虚拟现实      | 通过计算机技术创建的模拟环境。                    |
+| Augmented Reality (AR)           | 增强现实      | 将数字信息叠加到现实世界视图上的技术。             |
+分类
+1. 版本控制：Repository, Commit, Pull Request, Fork, Merge, Branch, Clone, Push, Merge Conflict, Pull, Rebase, Staging Area
+2. 人工智能：AI Model, Machine Learning, Deep Learning, Natural Language Processing
+3. 开发实践：Continuous Integration, Continuous Deployment, Microservices
+4. 新兴技术：Containerization, Kubernetes, RESTful API, GraphQL, Big Data, Blockchain, IoT, Cybersecurity, VR, AR
 <!-- by 覃卫婷 -->
 请使用AI对专业术语进行审核。审核——>中文版 README.zh.md,是否有错别字，如果有请重新提交
